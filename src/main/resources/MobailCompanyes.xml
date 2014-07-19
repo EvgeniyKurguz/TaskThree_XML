@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<MobailCompanys>
+    <Tariff id="001">
+        <name>Belline</name>
+        <operatorName>Belline</operatorName>
+        <payrol>200</payrol>
+        <callPrices>
+            <withinNetwork>1</withinNetwork>
+            <offline>2</offline>
+            <stationaryTelephone>5руб/мин</stationaryTelephone>
+        </callPrices>
+        <smsPrice>плата за смс 0.5 рублей</smsPrice>
+        <parameters>
+            <number>Любой номер телефона - 0</number>
+            <tariffication>Тарификация 0.2/min</tariffication>
+            <paymentConnection>90</paymentConnection>
+        </parameters>
+    </Tariff>
+
+    <Tariff id="002">
+        <name>Active</name>
+        <operatorName>Active</operatorName>
+        <payrol>Абонентская плата 200руб/мес</payrol>
+        <callPrices>
+            <withinNetwork>1.5</withinNetwork>
+            <offline> 2</offline>
+            <stationaryTelephone>4руб/мин</stationaryTelephone>
+        </callPrices>
+        <smsPrice> 0.7 </smsPrice>
+        <parameters>
+            <number> 0</number>
+            <tariffication>0.2</tariffication>
+            <paymentConnection> 120</paymentConnection>
+        </parameters>
+    </Tariff>
+
+    <Tariff id="003">
+        <name>Password</name>
+        <operatorName>Password</operatorName>
+        <payrol> 200</payrol>
+        <callPrices>
+            <withinNetwork>1</withinNetwork>
+            <offline>1</offline>
+            <stationaryTelephone>5</stationaryTelephone>
+        </callPrices>
+        <smsPrice> 0.6</smsPrice>
+        <parameters>
+            <number>0</number>
+            <tariffication> 0.3</tariffication>
+            <paymentConnection>80 </paymentConnection>
+        </parameters>
+    </Tariff>
+
+    <Tariff id="004">
+        <name>Tele 2</name>
+        <operatorName>Tele2</operatorName>
+        <payrol> 200</payrol>
+        <callPrices>
+            <withinNetwork> 1</withinNetwork>
+            <offline> 1</offline>
+            <stationaryTelephone>5</stationaryTelephone>
+        </callPrices>
+        <smsPrice> 0.6 </smsPrice>
+        <parameters>
+            <number> 0</number>
+            <tariffication>0.3</tariffication>
+            <paymentConnection> 80 </paymentConnection>
+        </parameters>
+    </Tariff>
+
+    <Tariff id="005">
+        <name>Megafon</name>
+        <operatorName>Megafon</operatorName>
+        <payrol> 200</payrol>
+        <callPrices>
+            <withinNetwork> 1</withinNetwork>
+            <offline> 1</offline>
+            <stationaryTelephone>5</stationaryTelephone>
+        </callPrices>
+        <smsPrice> 0.6 </smsPrice>
+        <parameters>
+            <number> 0</number>
+            <tariffication> 0.3</tariffication>
+            <paymentConnection> 80</paymentConnection>
+        </parameters>
+    </Tariff>
+
+</MobailCompanys>

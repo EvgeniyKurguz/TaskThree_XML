@@ -7,12 +7,12 @@
         <callPrices>
             <withinNetwork>1</withinNetwork>
             <offline>2</offline>
-            <stationaryTelephone>5руб/мин</stationaryTelephone>
+            <stationaryTelephone>5</stationaryTelephone>
         </callPrices>
-        <smsPrice>плата за смс 0.5 рублей</smsPrice>
+        <smsPrice> 0.5</smsPrice>
         <parameters>
-            <number>Любой номер телефона - 0</number>
-            <tariffication>Тарификация 0.2/min</tariffication>
+            <number> 0</number>
+            <tariffication> 0.2</tariffication>
             <paymentConnection>90</paymentConnection>
         </parameters>
     </Tariff>
@@ -20,11 +20,11 @@
     <Tariff id="002">
         <name>Active</name>
         <operatorName>Active</operatorName>
-        <payrol>Абонентская плата 200руб/мес</payrol>
+        <payrol>200</payrol>
         <callPrices>
             <withinNetwork>1.5</withinNetwork>
             <offline> 2</offline>
-            <stationaryTelephone>4руб/мин</stationaryTelephone>
+            <stationaryTelephone>4</stationaryTelephone>
         </callPrices>
         <smsPrice> 0.7 </smsPrice>
         <parameters>
